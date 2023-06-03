@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: irsans;
+  src: url("../webfonts/IRANSansWeb.ttf");
+}
+
+body {
+  font-family: irsans !important;
+  font-weight: 300;
+  direction: rtl;
+  word-spacing: -2px;
+}
